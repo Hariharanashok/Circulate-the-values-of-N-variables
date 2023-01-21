@@ -31,7 +31,7 @@ def circulate():
 
 ```
 ## Output:
-![output](/circulate.png).png)
+![image](https://user-images.githubusercontent.com/120353431/213845045-43d008cb-e88a-410f-a98c-f24f0365d334.png)
 
 ## Result:
 thus circulating the values of N variables using python program successfully executed
